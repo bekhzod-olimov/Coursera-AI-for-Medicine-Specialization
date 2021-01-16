@@ -4,11 +4,28 @@ This repository contains my solutions to all the materials, namely quizes and pr
 
 ## Contents
 
-- #### Course #1: AI for Medical Diagnosis
-    
-- #### Course #2: AI for Medical Prognosis
+#### COURSE-1: AI for Medical Diagnosis
+- ##### week-1: Disease detection with computer vision
 
-- #### Course #3: AI For Medical Treatment
+- ##### week-2: Evaluating models
+  
+- ##### week-3: Image segmentation on MRI images
+
+#### COURSE-2: AI for Medical Prognosis
+- ##### week-1: Linear prognostic models
+
+- ##### week-2: Prognosis with Tree-based models
+  
+- ##### week-3: Survival Models and Time
+
+- ##### week-4: Build a risk model using linear and tree-based models
+
+#### COURSE-3: AI For Medical Treatment
+- ##### week-1: Treatment Effect Estimation
+
+- ##### week-2: Medical Question Answering
+
+- ##### week-3: ML Interpretation
   
 ## Specialization Certificate
 
