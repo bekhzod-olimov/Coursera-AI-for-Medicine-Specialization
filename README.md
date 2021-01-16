@@ -4,11 +4,11 @@ This repository contains my solutions to all the materials, namely quizes and pr
 
 ## Contents
 
-- #### a) Course #1: AI for Medical Diagnosis
+- #### Course #1: AI for Medical Diagnosis
     
-- #### b) Course #2: AI for Medical Prognosis
+- #### Course #2: AI for Medical Prognosis
 
-- #### c) Course #3: AI For Medical Treatment
+- #### Course #3: AI For Medical Treatment
   
 ## Specialization Certificate
 
